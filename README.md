@@ -10,9 +10,3 @@ The schema includes the following tables:
 - `results` – records match results and scores
 - `ranks` – stores team rankings
 
-## Tools Used
-
-- SQL (MySQL Workbench)
-- xampp (Apache)
-
-
